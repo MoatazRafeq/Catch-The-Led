@@ -98,10 +98,3 @@ The project is divided into the following modules:
 * 7-segment display for scores
 * Additional game modes
 * Microcontroller version (optional upgrade)
-
-
----
-
-##  Contribution
-
-Feel free to fork, improve, or build upon this project.
